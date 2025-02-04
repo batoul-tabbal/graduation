@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{310A9916-89EC-4D28-8206-B05530781EAE}|grade\\grade.csproj|c:\\users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310A9916-89EC-4D28-8206-B05530781EAE}|grade\\grade.csproj|solutionrelative:grade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310A9916-89EC-4D28-8206-B05530781EAE}|grade\\grade.csproj|c:\\users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310A9916-89EC-4D28-8206-B05530781EAE}|grade\\grade.csproj|solutionrelative:grade\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310A9916-89EC-4D28-8206-B05530781EAE}|grade\\grade.csproj|c:\\users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310A9916-89EC-4D28-8206-B05530781EAE}|grade\\grade.csproj|solutionrelative:grade\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310A9916-89EC-4D28-8206-B05530781EAE}|grade\\grade.csproj|c:\\users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310A9916-89EC-4D28-8206-B05530781EAE}|grade\\grade.csproj|solutionrelative:grade\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{310A9916-89EC-4D28-8206-B05530781EAE}|grade\\grade.csproj|c:\\users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\login\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310A9916-89EC-4D28-8206-B05530781EAE}|grade\\grade.csproj|solutionrelative:grade\\login\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EB5BA2BA-6716-41C8-B067-2F0AE041AE47}|AuthControllerTest.cs\\AuthControllerTest.cs.csproj|c:\\users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\authcontrollertest.cs\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB5BA2BA-6716-41C8-B067-2F0AE041AE47}|AuthControllerTest.cs\\AuthControllerTest.cs.csproj|solutionrelative:authcontrollertest.cs\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,24 +35,12 @@
       "RelativeMoniker": "D:0:0:{EB5BA2BA-6716-41C8-B067-2F0AE041AE47}|AuthControllerTest.cs\\AuthControllerTest.cs.csproj|solutionrelative:authcontrollertest.cs\\authcontrollertest.cs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{310A9916-89EC-4D28-8206-B05530781EAE}|grade\\grade.csproj|c:\\users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{310A9916-89EC-4D28-8206-B05530781EAE}|grade\\grade.csproj|solutionrelative:grade\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{310A9916-89EC-4D28-8206-B05530781EAE}|grade\\grade.csproj|c:\\users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\grade.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{310A9916-89EC-4D28-8206-B05530781EAE}|grade\\grade.csproj|solutionrelative:grade\\grade.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{310A9916-89EC-4D28-8206-B05530781EAE}|grade\\grade.csproj|c:\\users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\login\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{310A9916-89EC-4D28-8206-B05530781EAE}|grade\\grade.csproj|solutionrelative:grade\\login\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{310A9916-89EC-4D28-8206-B05530781EAE}|grade\\grade.csproj|c:\\users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\login\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{310A9916-89EC-4D28-8206-B05530781EAE}|grade\\grade.csproj|solutionrelative:grade\\login\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{310A9916-89EC-4D28-8206-B05530781EAE}|grade\\grade.csproj|c:\\users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{310A9916-89EC-4D28-8206-B05530781EAE}|grade\\grade.csproj|solutionrelative:grade\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{310A9916-89EC-4D28-8206-B05530781EAE}|grade\\grade.csproj|c:\\users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,46 +62,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthControllerTest.cs.csproj",
-              "DocumentMoniker": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\AuthControllerTest.cs\\AuthControllerTest.cs.csproj",
-              "RelativeDocumentMoniker": "AuthControllerTest.cs\\AuthControllerTest.cs.csproj",
-              "ToolTip": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\AuthControllerTest.cs\\AuthControllerTest.cs.csproj",
-              "RelativeToolTip": "AuthControllerTest.cs\\AuthControllerTest.cs.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-26T11:54:22.363Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AuthControllerTests.cs",
-              "DocumentMoniker": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\AuthControllerTest.cs\\AuthControllerTests.cs",
-              "RelativeDocumentMoniker": "AuthControllerTest.cs\\AuthControllerTests.cs",
-              "ToolTip": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\AuthControllerTest.cs\\AuthControllerTests.cs",
-              "RelativeToolTip": "AuthControllerTest.cs\\AuthControllerTests.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "grade\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\Controllers\\UserController.cs",
+              "RelativeToolTip": "grade\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T11:54:43.176Z",
+              "WhenOpened": "2025-02-04T13:33:11.925Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\Services\\UserServices.cs",
+              "RelativeDocumentMoniker": "grade\\Services\\UserServices.cs",
+              "ToolTip": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\Services\\UserServices.cs",
+              "RelativeToolTip": "grade\\Services\\UserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T13:24:04.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "UnitTest1.cs",
               "DocumentMoniker": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\AuthControllerTest.cs\\UnitTest1.cs",
               "RelativeDocumentMoniker": "AuthControllerTest.cs\\UnitTest1.cs",
               "ToolTip": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\AuthControllerTest.cs\\UnitTest1.cs",
               "RelativeToolTip": "AuthControllerTest.cs\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T11:19:03.804Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "LogInResponse.cs",
               "DocumentMoniker": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\LogIn\\LogInResponse.cs",
               "RelativeDocumentMoniker": "grade\\LogIn\\LogInResponse.cs",
@@ -101,12 +109,11 @@
               "RelativeToolTip": "grade\\LogIn\\LogInResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T12:33:05.914Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T12:33:05.914Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "grade.csproj",
               "DocumentMoniker": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\grade.csproj",
               "RelativeDocumentMoniker": "grade\\grade.csproj",
@@ -114,8 +121,32 @@
               "RelativeToolTip": "grade\\grade.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-25T11:33:15.372Z",
+              "WhenOpened": "2025-01-25T11:33:15.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\Program.cs",
+              "RelativeDocumentMoniker": "grade\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\Program.cs",
+              "RelativeToolTip": "grade\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-25T13:53:17.77Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\AuthControllerTest.cs\\AuthControllerTests.cs",
+              "RelativeDocumentMoniker": "AuthControllerTest.cs\\AuthControllerTests.cs",
+              "ToolTip": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\AuthControllerTest.cs\\AuthControllerTests.cs",
+              "RelativeToolTip": "AuthControllerTest.cs\\AuthControllerTests.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T11:54:43.176Z"
             },
             {
               "$type": "Document",
@@ -132,19 +163,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\Program.cs",
-              "RelativeDocumentMoniker": "grade\\Program.cs",
-              "ToolTip": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\Program.cs",
-              "RelativeToolTip": "grade\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAIBJwBYAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\LogIn\\User.cs",
+              "RelativeDocumentMoniker": "grade\\LogIn\\User.cs",
+              "ToolTip": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\LogIn\\User.cs",
+              "RelativeToolTip": "grade\\LogIn\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T13:53:17.77Z"
+              "WhenOpened": "2025-01-25T12:14:14.257Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
+              "Title": "AuthControllerTest.cs.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\AuthControllerTest.cs\\AuthControllerTest.cs.csproj",
+              "RelativeDocumentMoniker": "AuthControllerTest.cs\\AuthControllerTest.cs.csproj",
+              "ToolTip": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\AuthControllerTest.cs\\AuthControllerTest.cs.csproj",
+              "RelativeToolTip": "AuthControllerTest.cs\\AuthControllerTest.cs.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-26T11:54:22.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "TokenService.cs",
               "DocumentMoniker": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\Services\\TokenService.cs",
               "RelativeDocumentMoniker": "grade\\Services\\TokenService.cs",
@@ -153,18 +197,6 @@
               "ViewState": "AgIAAAUAAAAAAAAAAABQwBEAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-25T12:56:21.564Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\LogIn\\User.cs",
-              "RelativeDocumentMoniker": "grade\\LogIn\\User.cs",
-              "ToolTip": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\LogIn\\User.cs",
-              "RelativeToolTip": "grade\\LogIn\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T12:14:14.257Z"
             }
           ]
         }

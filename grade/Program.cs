@@ -1,3 +1,4 @@
+using grade.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
@@ -5,6 +6,13 @@ using Microsoft.IdentityModel.Tokens;
 using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
+
+
+//  ”ÃÌ· «·Œœ„« 
+builder.Services.AddControllers();
+builder.Services.AddSingleton<UserServices>(); //  ”ÃÌ· «·Œœ„…
+
+var app = builder.Build();
 
 // ≈÷«›… «·Œœ„« 
 builder.Services.AddAuthentication(options =>
@@ -30,7 +38,7 @@ builder.Services.AddAuthentication(options =>
 // ≈÷«›… Œœ„«  √Œ—Ï
 builder.Services.AddControllers();
 
-var app = builder.Build();
+
 
 // ≈⁄œ«œ «·„’«œﬁ…
 app.UseRouting();
