@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{310A9916-89EC-4D28-8206-B05530781EAE}|grade\\grade.csproj|c:\\users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\repository\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{310A9916-89EC-4D28-8206-B05530781EAE}|grade\\grade.csproj|solutionrelative:grade\\repository\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{310A9916-89EC-4D28-8206-B05530781EAE}|grade\\grade.csproj|c:\\users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\repository\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{310A9916-89EC-4D28-8206-B05530781EAE}|grade\\grade.csproj|solutionrelative:grade\\repository\\repo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -27,6 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Section.cs",
+              "DocumentMoniker": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\Repository\\Section.cs",
+              "RelativeDocumentMoniker": "grade\\Repository\\Section.cs",
+              "ToolTip": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\Repository\\Section.cs",
+              "RelativeToolTip": "grade\\Repository\\Section.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T11:07:05.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Repo.cs",
               "DocumentMoniker": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\Repository\\Repo.cs",
               "RelativeDocumentMoniker": "grade\\Repository\\Repo.cs",
@@ -39,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\\u0645\u0631\u0643\u0632 \u0627\u0644\u0642\u0627\u0633\u0645\\source\\repos\\grade\\grade\\LogIn\\User.cs",
               "RelativeDocumentMoniker": "grade\\LogIn\\User.cs",
@@ -47,8 +64,7 @@
               "RelativeToolTip": "grade\\LogIn\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-25T12:14:14.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-25T12:14:14.257Z"
             }
           ]
         }
