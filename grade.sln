@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "grade", "grade\grade.csproj", "{310A9916-89EC-4D28-8206-B05530781EAE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "grade", "grade\grade.csproj", "{310A9916-89EC-4D28-8206-B05530781EAE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthControllerTest.cs", "AuthControllerTest.cs\AuthControllerTest.cs.csproj", "{EB5BA2BA-6716-41C8-B067-2F0AE041AE47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthControllerTest.cs", "AuthControllerTest.cs\AuthControllerTest.cs.csproj", "{EB5BA2BA-6716-41C8-B067-2F0AE041AE47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryTesting.cs", "RepositoryTesting\RepositoryTesting.cs.csproj", "{91481B68-5B5D-4363-9715-D4D794906454}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{EB5BA2BA-6716-41C8-B067-2F0AE041AE47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EB5BA2BA-6716-41C8-B067-2F0AE041AE47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EB5BA2BA-6716-41C8-B067-2F0AE041AE47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91481B68-5B5D-4363-9715-D4D794906454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91481B68-5B5D-4363-9715-D4D794906454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91481B68-5B5D-4363-9715-D4D794906454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91481B68-5B5D-4363-9715-D4D794906454}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

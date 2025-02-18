@@ -321,7 +321,6 @@ C:\Users\مركز القاسم\source\repos\grade\grade\bin\Debug\net8.0\Microso
 C:\Users\مركز القاسم\source\repos\grade\grade\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\مركز القاسم\source\repos\grade\grade\bin\Debug\net8.0\Moq.dll
 C:\Users\مركز القاسم\source\repos\grade\grade\bin\Debug\net8.0\nunit.framework.dll
-C:\Users\مركز القاسم\source\repos\grade\grade\bin\Debug\net8.0\nunit.framework.legacy.dll
 C:\Users\مركز القاسم\source\repos\grade\grade\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\مركز القاسم\source\repos\grade\grade\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\مركز القاسم\source\repos\grade\grade\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -348,3 +347,10 @@ C:\Users\مركز القاسم\source\repos\grade\grade\obj\Debug\net8.0\refint\
 C:\Users\مركز القاسم\source\repos\grade\grade\obj\Debug\net8.0\grade.pdb
 C:\Users\مركز القاسم\source\repos\grade\grade\obj\Debug\net8.0\grade.genruntimeconfig.cache
 C:\Users\مركز القاسم\source\repos\grade\grade\obj\Debug\net8.0\ref\grade.dll
+C:\Users\مركز القاسم\source\repos\grade\grade\obj\Debug\net8.0\grade.sourcelink.json
+C:\Users\مركز القاسم\source\repos\grade\grade\bin\Debug\net8.0\NUnit3.TestAdapter.dll
+C:\Users\مركز القاسم\source\repos\grade\grade\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
+C:\Users\مركز القاسم\source\repos\grade\grade\bin\Debug\net8.0\nunit.engine.dll
+C:\Users\مركز القاسم\source\repos\grade\grade\bin\Debug\net8.0\nunit.engine.api.dll
+C:\Users\مركز القاسم\source\repos\grade\grade\bin\Debug\net8.0\nunit.engine.core.dll
+C:\Users\مركز القاسم\source\repos\grade\grade\bin\Debug\net8.0\testcentric.engine.metadata.dll

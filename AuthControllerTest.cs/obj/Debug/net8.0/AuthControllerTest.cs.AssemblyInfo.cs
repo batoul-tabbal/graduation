@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AuthControllerTest.cs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7370461878443546c6138652975b60f8a6a3cbe8")]
 [assembly: System.Reflection.AssemblyProductAttribute("AuthControllerTest.cs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AuthControllerTest.cs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

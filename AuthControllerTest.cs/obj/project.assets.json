@@ -1372,6 +1372,7 @@
           "Microsoft.AspNetCore.Mvc.Testing": "8.0.0",
           "Moq": "4.20.72",
           "NUnit": "3.14.0",
+          "NUnit3TestAdapter": "4.5.0",
           "Swashbuckle.AspNetCore": "6.6.2"
         },
         "compile": {
