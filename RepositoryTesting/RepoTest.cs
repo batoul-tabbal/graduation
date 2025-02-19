@@ -1,5 +1,4 @@
 using System.Threading.Tasks;
-using System.Threading.Tasks;
 using grade.Repository;
 using Microsoft.AspNetCore.Mvc;
 using NUnit.Framework;
@@ -27,7 +26,7 @@ public class RepoTest
     [Test]
     public void AddSection_DoesNotAdd_WhenAlreadyExists()
     {
-        _repo.AddSection(101);
+        
         _repo.AddSection(101);
         NUnit.Framework.Assert.AreEqual(1, _repo.NumOfSections.Count);
     }
