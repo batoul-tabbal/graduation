@@ -18,7 +18,7 @@ namespace grade.Controllers
         [HttpPost("login")]
         public IActionResult Login([FromBody] User user)
         {
-            // تحقق من بيانات المستخدم (يمكنك استخدام قاعدة بيانات)
+           
             if (user.Username == "admin" && user.Password == "password")
             {
                 var token = _tokenService.GenerateToken(user.Username);
