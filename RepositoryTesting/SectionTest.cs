@@ -10,7 +10,7 @@ public class SectionTests
     [SetUp]
     public void Setup()
     {
-        section = new Section(1, 100.0, 10.0,0,0);
+        section = new Section(1, 100.0, 10.0,0,0,0);
     }
 
     [Test]
@@ -21,6 +21,7 @@ public class SectionTests
         NUnit.Framework.Assert.AreEqual(10.0, section.SectionHigh);
         NUnit.Framework.Assert.AreEqual(0, section.NumOfCategories);
         NUnit.Framework.Assert.AreEqual(0 , section.NumOfItems);
+        NUnit.Framework.Assert.AreEqual(0, section.NumOfShelves);
 
     }
     [Test]
@@ -65,6 +66,27 @@ public class SectionTests
         section.AddItems(3);
         NUnit.Framework.Assert.Throws<InvalidOperationException>(() => section.RemoveItems(5));
     }
+    [Test]
+    public void TestAddShelf()
+    {
+        section.AddShelf(1);
+        NUnit.Framework.Assert.AreEqual(1, section.NumOfShelves);
+    }
+    [Test]
+    public void TestRemoveShelf()
+    {
+        section.AddShelf(2);
+        section.RemoveShelf(1);
+        NUnit.Framework.Assert.AreEqual(1, section.NumOfShelves);
+
+    }
+    [Test]
+    public void TestRemoveMoreThanAvailable2()
+    {
+        section.AddShelf(3);
+        NUnit.Framework.Assert.Throws<InvalidOperationException>(() => section.RemoveShelf(5));
+    }
+
 
 
 }
