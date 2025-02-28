@@ -3,6 +3,9 @@
     public class Section
     {
         public int SectionId { get; set; }
+        public int RepoId { get; set; }
+        public virtual Repo Repos { get; set; }
+        public virtual ICollection<Category> Categories { get; set; }
         public double SectionArea { get; set; }
         public double SectionHigh { get; set; }
         public int NumOfCategories { get; set; }
@@ -10,7 +13,7 @@
         public int NumOfShelves { get; set; }
 
 
-        public Section(int sectionId, double area, double high, int category , int item, int shelf)
+        public Section(int sectionId, double area, double high)
         { 
             SectionId = sectionId;
             SectionArea = area;
@@ -18,6 +21,7 @@
             NumOfCategories = 0;
             NumOfItems = 0;
             NumOfShelves = 0;
+            Categories = new List<Category>();
         }
         public void AddCategory( int count)
         {

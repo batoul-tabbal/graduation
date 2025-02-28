@@ -7,5 +7,10 @@
         public string Description { get; set; }
         public DateOnly Expiration {  get; set; }
 
+        public virtual ICollection<Category> Categories { get; set; }
+        public Item()
+        {
+            Categories = new List<Category>();
+        }
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("grade")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+547ff71792b0e1bfbc3efe2b463618b989a1035c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ea066177155e6c35252915abaa0cda6ba84d0e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("grade")]
 [assembly: System.Reflection.AssemblyTitleAttribute("grade")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
