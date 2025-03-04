@@ -20,6 +20,7 @@ public class MyDbContext : DbContext
 
         modelBuilder.Entity<Category>().HasMany(c => c.Items).WithMany(i => i.Categories);
         modelBuilder.Entity<Category>().HasOptional(c => c.ParentCategory).WithMany(c => c.SubCategories).HasForeignKey(c => c.ParentId);
+        modelBuilder.Entity<Section>().HasMany(s => s.Shelves).WithRequired(sh => sh.Sections);
     }
 }
 

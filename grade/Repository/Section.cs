@@ -6,6 +6,7 @@
         public int RepoId { get; set; }
         public virtual Repo Repos { get; set; }
         public virtual ICollection<Category> Categories { get; set; }
+        public virtual ICollection<Shelf> Shelves { get; set; }
         public double SectionArea { get; set; }
         public double SectionHigh { get; set; }
         public int NumOfCategories { get; set; }
@@ -22,6 +23,7 @@
             NumOfItems = 0;
             NumOfShelves = 0;
             Categories = new List<Category>();
+            Shelves = new List<Shelf>();
         }
         public void AddCategory( int count)
         {

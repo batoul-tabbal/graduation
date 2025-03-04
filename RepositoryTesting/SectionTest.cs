@@ -10,7 +10,7 @@ public class SectionTests
     [SetUp]
     public void Setup()
     {
-        section = new Section(1, 100.0, 10.0,0,0,0);
+        section = new Section(1, 100.0, 10.0);
     }
 
     [Test]
