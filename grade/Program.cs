@@ -2,17 +2,35 @@ using grade.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.DependencyInjection.Extensions;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
+using Microsoft.Extensions.DependencyInjection;
+
+
+
 
 var builder = WebApplication.CreateBuilder(args);
 
 
+
+builder.Services.AddScoped<IEmployeeService, EmployeeService>();
+
+var app = builder.Build();
+
+//  ﬂÊÌ‰ »«ﬁÌ «· ÿ»Ìﬁ
+app.UseRouting();
+app.UseEndpoints(endpoints =>
+{
+    endpoints.MapControllers();
+});
+
+app.Run();
 //  ”ÃÌ· «·Œœ„« 
 builder.Services.AddControllers();
 builder.Services.AddSingleton<UserServices>(); //  ”ÃÌ· «·Œœ„…
 
-var app = builder.Build();
+
 
 // ≈÷«›… «·Œœ„« 
 builder.Services.AddAuthentication(options =>

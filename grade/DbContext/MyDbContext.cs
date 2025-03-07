@@ -1,4 +1,5 @@
 ﻿using System.Data.Entity;
+using grade.FixedAssets;
 using grade.Repository;
 public class MyDbContext : DbContext
 {
@@ -10,6 +11,8 @@ public class MyDbContext : DbContext
     public DbSet<Section> Sections { get; set; }
     public DbSet<Category> Categories { get; set; }
     public DbSet<Item> Items { get; set; }
+    //new
+    public DbSet<Employe> Employes { get; set; }
 
     protected override void OnModelCreating(DbModelBuilder modelBuilder)
     {
